@@ -56,6 +56,12 @@ img.meow2{
     width:20px;
 }
 
+table.fow17_staff{
+  padding: 0px;
+  border: 0px;
+  background: #42b3f4;
+}
+
 .staffname .staffjob
 {
     display: inline-block;
