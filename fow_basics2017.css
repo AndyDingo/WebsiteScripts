@@ -48,3 +48,29 @@
 img.meow {
   border: 1px solid #000;
 }
+
+.staffname .staffjob
+{
+    display: inline-block;
+}
+
+.staffname {
+  margin: 0px;
+	padding: 0px;
+	top: -38px;
+	text-align: left;
+}
+
+.staffjob {
+	margin: 0px;
+	padding-left: 10px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: left;
+}
+
+.staffdesc {
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+}
