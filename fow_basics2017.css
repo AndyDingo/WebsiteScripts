@@ -46,7 +46,14 @@
 /* OTHER STUFF */
 
 img.meow {
-  border: 1px solid #000;
+    border: 1px solid #000;
+    height:150px;
+    width:150px;
+}
+
+img.meow2{
+    height:150px;
+    width:20px;
 }
 
 .staffname .staffjob
